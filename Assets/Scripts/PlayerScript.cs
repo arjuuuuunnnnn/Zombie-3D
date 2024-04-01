@@ -5,7 +5,6 @@ using UnityEngine;
 public class PlayerScript : MonoBehaviour
 {
    [Header("Player Movement")]
-
    [Header("Player Animator and Gravity")]
    
 }
